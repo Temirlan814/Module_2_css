@@ -29,15 +29,15 @@ h1 {
     color: black;
 }
 
-.section1 {
+.sec1 {
     background-color: lightgrey; 
 }
 
-.section2 {
+.sec2 {
     background-color: lightgrey; 
 }
 
-.section3 {
+.sec3 {
     background-color: lightgrey;
 }
 
@@ -51,18 +51,18 @@ h1 {
     font-weight: bold;
 }
 
-.section1 .section-title {
+.sec1 .section-title {
     background-color: red; 
     color: white;
 }
 
-.section2 .section-title {
-    background-color: blue; 
+.sec2 .section-title {
+    background-color: green; 
     color: white;
 }
 
-.section3 .section-title {
-    background-color: green;
+.sec3 .section-title {
+    background-color: yellow;
     color: white;
 }
 
